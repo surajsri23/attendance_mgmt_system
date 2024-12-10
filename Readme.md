@@ -30,8 +30,8 @@ The **Attendance Management System** is a Python-based application that leverage
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/surajsri23/attendance-management-system.git
-cd attendance-management-system
+git clone https://github.com/surajsri23/attendance_mgmt_system.git
+cd attendance_mgmt_system
 ```
 
 ### 2. Install Required Packages
@@ -104,5 +104,3 @@ Special thanks to the following:
 - **MySQL** for database management.
 
 ---
-
-For any questions or issues, feel free to contact **[manasbhunya2391@gmail.com]**.
